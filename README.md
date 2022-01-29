@@ -9,8 +9,8 @@ You can check it out [here](https://svelte-candy-crush.vercel.app)
 Install the dependencies...
 
 ```bash
-git clone https://github.com/RedEdge967/svelte-tetris.git
-cd svelte-tetris
+git clone https://github.com/RedEdge967/candy-crush.git
+cd candy-crush
 npm install
 ```
 
