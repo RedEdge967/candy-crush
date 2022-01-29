@@ -20,5 +20,5 @@ npm install
 npm run dev
 ```
 
-Navigate to [localhost:5000](http://localhost:5000). You should see the app running. Press **start** and start playing around.
+Navigate to [localhost:5000](http://localhost:5000). You should see the app running. and start playing around.
 
