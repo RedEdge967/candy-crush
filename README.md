@@ -29,3 +29,6 @@ I suggest you to use [Vercel](https://vercel.com) or [Netlify](https://netlify.c
 Read the documentations before developing and deploying.
 - [Vercel Documentation](https://vercel.com/docs)
 - [Netlify Documentation](https://docs.netlify.com)
+
+## Can I contribute?
+Sure open an issue, point out errors, and what not? wanna fix something yourself, you are welcome to open a PR and I appreciate it.
