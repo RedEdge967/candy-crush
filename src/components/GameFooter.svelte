@@ -35,7 +35,7 @@
 
 <footer>
   <div class="credits">
-    <p>Svelte Candy Crush by <a href="https://github.com/RedEdge967" target="_blank">@Chandula</a></p>
+    <p>Svelte Candy Crush by <a href="https://github.com/RedEdge967" target="_blank">Chandula</a></p>
     <p>Source code on <a href="https://github.com/RedEdge967/candy-crush" target="_blank">GitHub</a></p>
   </div>
   <Button on:click={game.reset}>Reset</Button>
