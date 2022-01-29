@@ -32,3 +32,5 @@ Read the documentations before developing and deploying.
 
 ## Can I contribute?
 Sure open an issue, point out errors, and what not? wanna fix something yourself, you are welcome to open a PR and I appreciate it.
+
+> If you enjoyed this game, don't forget to give a star 🌟 and fork too...
